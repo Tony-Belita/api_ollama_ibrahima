@@ -5,7 +5,7 @@ from html import unescape
 
 
 # Récupérer les questions de l'API OpenTDB
-def charger_questions(amount=20):
+def charger_questions(amount=50):
     url = f"https://opentdb.com/api.php?amount=50&type=multiple"
     response = requests.get(url)
     data = response.json()
@@ -72,7 +72,7 @@ Reponse :"""
     return success_rate
 
 
-# Étape principale
+
 def main():
     print(" Récupération des questions...")
     questions = charger_questions(20)
