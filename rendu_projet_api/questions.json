@@ -1,0 +1,602 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which is the second largest native language spoken in Spain by numbers of speakers?",
+        "correct_answer": "Catalan",
+        "incorrect_answers": [
+            "Portuguese",
+            "Spanish",
+            "French"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+        "correct_answer": "Victory",
+        "incorrect_answers": [
+            "Courage",
+            "Strength",
+            "Honor"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Which former US president used &quot;Let&#039;s Make America Great Again&quot; as his campaign slogan before Donald Trump&#039;s campaign?",
+        "correct_answer": "Ronald Reagan",
+        "incorrect_answers": [
+            "Jimmy Carter",
+            "Gerald Ford",
+            "Richard Nixon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What was Frank West&#039;s job in &quot;Dead Rising&quot;?",
+        "correct_answer": "Photojournalist",
+        "incorrect_answers": [
+            "Janitor",
+            "Chef",
+            "Taxi Driver"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which type of rock is created by intense heat AND pressure?",
+        "correct_answer": "Metamorphic",
+        "incorrect_answers": [
+            "Sedimentary",
+            "Igneous",
+            "Diamond"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "The theme for the popular science fiction series &quot;Doctor Who&quot; was composed by who?",
+        "correct_answer": "Ron Grainer",
+        "incorrect_answers": [
+            "Murray Gold",
+            "Delia Derbyshire",
+            "Peter Howell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Where was Kanye West born?",
+        "correct_answer": "Atlanta, Georgia",
+        "incorrect_answers": [
+            "Chicago, Illinois",
+            "Los Angeles, California",
+            "Detroit, Michigan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In which U.S. state is Far Cry 5&#039;s fictional setting &#039;Hope County&#039; located?",
+        "correct_answer": "Montana",
+        "incorrect_answers": [
+            "Idaho",
+            "Wyoming",
+            "North Carolina"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What machine element is located in the center of fidget spinners?",
+        "correct_answer": "Bearings",
+        "incorrect_answers": [
+            "Axles",
+            "Gears",
+            "Belts"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following spacecraft never touched the moon?",
+        "correct_answer": "Mariner 4",
+        "incorrect_answers": [
+            "Apollo 11",
+            "Luna 2",
+            "SMART-1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+        "correct_answer": "Print",
+        "incorrect_answers": [
+            "Digest",
+            "Look",
+            "Read"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the only country in the world with a flag that doesn&#039;t have four right angles?",
+        "correct_answer": "Nepal",
+        "incorrect_answers": [
+            "Panama",
+            "Angola",
+            "Egypt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What war is Call Of Duty: Black Ops based on?",
+        "correct_answer": "Cold War",
+        "incorrect_answers": [
+            "WW3",
+            "Vietnam",
+            "WW1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these Starbound races has a Wild West culture?",
+        "correct_answer": "Novakid",
+        "incorrect_answers": [
+            "Avian",
+            "Human",
+            "Hylotl"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who was the Director of the 1988 Anime film &quot;Grave of the Fireflies&quot;?",
+        "correct_answer": "Isao Takahata",
+        "incorrect_answers": [
+            "Hayao Miyazaki",
+            "Satoshi Kon",
+            "Sunao Katabuchi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who is the founder and leader of industrial rock band, &#039;Nine Inch Nails&#039;?",
+        "correct_answer": "Trent Reznor",
+        "incorrect_answers": [
+            "Marilyn Manson",
+            "Robin Finck",
+            "Josh Homme"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "On which aircraft carrier did the Doolitte Raid launch from on April 18, 1942 during World War II?",
+        "correct_answer": "USS Hornet",
+        "incorrect_answers": [
+            "USS Enterprise",
+            "USS Lexington",
+            "USS Saratoga"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "The LS7 engine is how many cubic inches?",
+        "correct_answer": "427",
+        "incorrect_answers": [
+            "346",
+            "364",
+            "376"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Grand Theft Auto V, what was Michael De Santa&#039;s former surname?",
+        "correct_answer": "Townley",
+        "incorrect_answers": [
+            "De Santos",
+            "Watson",
+            "Simpson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who tutored Alexander the Great?",
+        "correct_answer": "Aristotle",
+        "incorrect_answers": [
+            "Socrates",
+            "Plato",
+            "King Philip"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
+        "correct_answer": "Shaquille O&#039;Neal",
+        "incorrect_answers": [
+            "Allen Iverson",
+            "Kobe Bryant",
+            "Paul Pierce"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Which animal was part of an Russian domestication experiment in 1959?",
+        "correct_answer": "Foxes",
+        "incorrect_answers": [
+            "Pigeons",
+            "Bears",
+            "Alligators"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "What was the last message of the Dolphins in &quot;The Hitchhiker&#039;s Guide to the Galaxy&quot;?",
+        "correct_answer": "&quot;So long, and thanks for all the fish.&quot;",
+        "incorrect_answers": [
+            "&quot;The answer is 42.&quot;",
+            "&quot;Land of the brave.&quot;",
+            "&quot;Goodbye cruel world!&quot;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When someone is inexperienced they are said to be what color?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Red",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Overwatch,&quot; what is the hero McCree&#039;s full name?",
+        "correct_answer": "Jesse McCree",
+        "incorrect_answers": [
+            "Jack &quot;McCree&quot; Morrison",
+            "Gabriel Reyes",
+            "Jamison &quot;Deadeye&quot; Fawkes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?",
+        "correct_answer": "Monopoly",
+        "incorrect_answers": [
+            "Pay Day",
+            "Cluedo",
+            "Coppit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who painted the Mona Lisa?",
+        "correct_answer": "Leonardo da Vinci",
+        "incorrect_answers": [
+            "Pablo Picasso",
+            "Claude Monet",
+            "Vincent van Gogh"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+        "correct_answer": "Non-impact printer",
+        "incorrect_answers": [
+            "Impact printer",
+            "Daisywheel printer",
+            "Dot matrix printer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+        "correct_answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+        "incorrect_answers": [
+            "&lt;scroll&gt;&lt;/scroll&gt;",
+            "&lt;move&gt;&lt;/move&gt;",
+            "&lt;slide&gt;&lt;/slide&gt;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which animation studio animated &quot;To Love-Ru&quot;?",
+        "correct_answer": "Xebec",
+        "incorrect_answers": [
+            "Trigger",
+            "Sunrise",
+            "Kyoto Animation"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+        "correct_answer": "My Neighbor Totoro",
+        "incorrect_answers": [
+            "Hop",
+            "Rise of the Guardians",
+            "Alice in Wonderland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Halo&quot;, what is the name of the planet which Installation 04 orbits?",
+        "correct_answer": "Threshold",
+        "incorrect_answers": [
+            "Substance",
+            "Sanghelios",
+            "Te"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Who won Big Brother 2014 UK?",
+        "correct_answer": "Helen Wood",
+        "incorrect_answers": [
+            "Christopher Hall",
+            "Pauline Bennett",
+            "Pavandeep &quot;Pav&quot; Paul"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The starting pistol of the Terrorist team in a competitive match of Counter Strike: Global Offensive is what?",
+        "correct_answer": "Glock-18",
+        "incorrect_answers": [
+            "Tec-9",
+            "Desert Eagle",
+            "Dual Berretas"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Dota 2, what is Earthshaker&#039;s real name?",
+        "correct_answer": "Raigor Stonehoof",
+        "incorrect_answers": [
+            "Banehallow Ambry",
+            "Carl",
+            "Barathrum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "In computing terms, typically what does CLI stand for?",
+        "correct_answer": "Command Line Interface",
+        "incorrect_answers": [
+            "Common Language Input",
+            "Control Line Interface",
+            "Common Language Interface"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "When was the first mammal successfully cloned?",
+        "correct_answer": "1996",
+        "incorrect_answers": [
+            "2009",
+            "1999",
+            "1985"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+        "correct_answer": "Traffic Collision Avoidance System",
+        "incorrect_answers": [
+            "Traffic Communication Alert System",
+            "Traffic Configuration Alignment System",
+            "Traffic Call-sign Abbreviation System"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Between 1973 to 1990, what country was ruled by dictator Augusto Pinochet?",
+        "correct_answer": "Chile",
+        "incorrect_answers": [
+            "Ethiopia",
+            "Indonesia",
+            "Nicaragua"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of these is a stop codon in DNA?",
+        "correct_answer": "TAA",
+        "incorrect_answers": [
+            "ACT",
+            "ACA",
+            "GTA"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What was the name of the spy ring that helped the United States win the Revolutionary War?",
+        "correct_answer": "Culper Ring",
+        "incorrect_answers": [
+            "New York Spy Ring",
+            "Washington&#039;s Spies",
+            "Unnamed"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+        "correct_answer": "Uranus",
+        "incorrect_answers": [
+            "Jupiter",
+            "Venus",
+            "Neptune"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Pink Floyd made this song for their previous lead singer Syd Barrett.",
+        "correct_answer": "Shine On You Crazy Diamond",
+        "incorrect_answers": [
+            "Wish You Were Here",
+            "Have A Cigar",
+            "Welcome to the Machine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What direction does the Statue of Liberty face?",
+        "correct_answer": "Southeast",
+        "incorrect_answers": [
+            "Southwest",
+            "Northwest",
+            "Northeast"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "Who was the first official world chess champion?",
+        "correct_answer": "Wilhelm Steinitz",
+        "incorrect_answers": [
+            "Jos&eacute; Ra&uacute;l Capablanca",
+            "Emanuel Lasker",
+            "Bobby Fischer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the Star Trek universe, what color is Vulcan blood?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Blue",
+            "Red",
+            "Purple"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Which of these is not an additional variation of the color purple?",
+        "correct_answer": "Kobicha",
+        "incorrect_answers": [
+            "Byzantium",
+            "Pomp and Power",
+            "Palatinate"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What was Rage Against the Machine&#039;s debut album?",
+        "correct_answer": "Rage Against the Machine",
+        "incorrect_answers": [
+            "Evil Empire",
+            "Bombtrack",
+            "The Battle Of Los Angeles"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Which car tire manufacturer is famous for its &quot;P Zero&quot; line?",
+        "correct_answer": "Pirelli",
+        "incorrect_answers": [
+            "Goodyear",
+            "Bridgestone",
+            "Michelin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Disney&#039;s &quot;Toontown Online&quot;, which of these species wasn&#039;t available as a Toon?",
+        "correct_answer": "Cow",
+        "incorrect_answers": [
+            "Monkey",
+            "Bear",
+            "Pig"
+        ]
+    }
+]
